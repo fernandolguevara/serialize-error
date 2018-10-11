@@ -1,3 +1,3 @@
-# is-error
+# serialize-error
 
-node library to check if the passed value is an error
+node library to serialize an javascript error instance
