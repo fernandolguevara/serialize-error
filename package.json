@@ -1,6 +1,6 @@
 {
   "name": "@propellerheads/serialize-error",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node library to serialize an javascript error instance",
   "main": "dist/index.js",
   "repository": {
